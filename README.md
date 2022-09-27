@@ -12,3 +12,4 @@ The account/rank pairs which the Technical Committee should introduce.
 | `pepyakin`  | `Dcm1BqR4N7nHuV43TXdET7pNibt1Nzm42FggPHpxKRven53` | 5 |
 | `shawntabrizi` | `EGVQCe73TpFyAZx5uKfE1222XfkT3BSKozjgcqzLBnc5eYo` | 4 |
 | `jacogr` | `J9nD3s7zssCX7bion1xctAF6xcVexcpy2uwy4jTm9JL8yuK` | 5 |
+| `ordian` | `GAWwkmjbLhM5pnAVbdZEkwd3QjHE7kaxJSCi3Ec91Q3QSDW` | 3 |

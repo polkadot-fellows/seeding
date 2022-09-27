@@ -10,4 +10,4 @@ The account/rank pairs which the Technical Committee should introduce.
 | `rphmeier`  | `J8ww78Qx3LVLW54bva3t4SzXcWKMdUWHEZR3V2VNKbmQgE8` | 6 |
 | `pepyakin`  | `Dcm1BqR4N7nHuV43TXdET7pNibt1Nzm42FggPHpxKRven53` | 5 |
 | `shawntabrizi` | `EGVQCe73TpFyAZx5uKfE1222XfkT3BSKozjgcqzLBnc5eYo` | 4 |
-
+| `jacogr` | `J9nD3s7zssCX7bion1xctAF6xcVexcpy2uwy4jTm9JL8yuK` | 5 |

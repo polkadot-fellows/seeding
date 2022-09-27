@@ -5,4 +5,4 @@ The account/rank pairs which the Technical Committee should introduce.
 | Github Username | Kusama Account ID | Rank |
 | --- | --- | --- |
 | `gavofyork` | `FcxNWVy5RESDsErjwyZmPCW6Z8Y3fbfLzmou34YZTrbcraL` | 7 |
-| `xlc` | `HyBryanRsB1GGKa9ZfqvRc3XpTDipYyRvxNNyZYfWFcenhd` | 5 |
+| `xlc` | `HyBryanRsB1GGKa9ZfqvRc3XpTDipYyRvxNNyZYfWFcenhd` | 4 |

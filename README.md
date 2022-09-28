@@ -15,3 +15,4 @@ The account/rank pairs which the Technical Committee should introduce.
 | `kianenigma` | `HL8bEp8YicBdrUmJocCAWVLKUaR2dd1y6jnD934pbre3un1` | 4 | 
 | `ordian` | `GAWwkmjbLhM5pnAVbdZEkwd3QjHE7kaxJSCi3Ec91Q3QSDW` | 3 |
 | `KiChjang` | `GA3yPifemubFga7sTSFtLY2KFFiSRp6Bb8w31FS4xqgAvCz` | 2 |
+| `ggwpez` | `Ea6jhP5gF4r7NqhkEoAXJDgSgYpNQNaTYU6gPsrEGfctaKR` | 1 |

@@ -16,3 +16,4 @@ The account/rank pairs which the Technical Committee should introduce.
 | `ordian` | `GAWwkmjbLhM5pnAVbdZEkwd3QjHE7kaxJSCi3Ec91Q3QSDW` | 3 |
 | `KiChjang` | `GA3yPifemubFga7sTSFtLY2KFFiSRp6Bb8w31FS4xqgAvCz` | 2 |
 | `ggwpez` | `Ea6jhP5gF4r7NqhkEoAXJDgSgYpNQNaTYU6gPsrEGfctaKR` | 1 |
+| `4meta5` | `FJq9JpA9P7EXbmfsN9YiewJaDbQyL6vQyksGtJvzfbn6zf8` | 1 |

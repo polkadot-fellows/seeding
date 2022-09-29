@@ -18,3 +18,4 @@ The account/rank pairs which the Technical Committee should introduce.
 | `KiChjang` | `GA3yPifemubFga7sTSFtLY2KFFiSRp6Bb8w31FS4xqgAvCz` | 2 |
 | `shaunxw` | `HxhDbS3grLurk1dhDgPiuDaRowHY1xHCU8Vu8on3fdg85tx` | 2 |
 | `ggwpez` | `Ea6jhP5gF4r7NqhkEoAXJDgSgYpNQNaTYU6gPsrEGfctaKR` | 1 |
+| `4meta5` | `FJq9JpA9P7EXbmfsN9YiewJaDbQyL6vQyksGtJvzfbn6zf8` | 1 |

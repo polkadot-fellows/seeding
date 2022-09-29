@@ -23,4 +23,5 @@ The account/rank pairs which the Technical Committee should introduce.
 | `ggwpez` | `Ea6jhP5gF4r7NqhkEoAXJDgSgYpNQNaTYU6gPsrEGfctaKR` | 1 |
 | `EclesioMeloJunior` | `CbCmCwFkfFkQo7bQtVczYg7sJ3oue6Ez2Z4RMGR8gi8deRk` | 1 |
 | `4meta5` | `FJq9JpA9P7EXbmfsN9YiewJaDbQyL6vQyksGtJvzfbn6zf8` | 1 |
+| `doordashcon` | `EaBqDJJNsZmYdQ4xn1vomPJVNh7fjA6UztZeEjn7ZzdeT7V` | 1 |
 | `qdm12` | `5GxLYcBSsZTdMjbPEQGhJU4LkXFWTzeUnV1sysa467hSkEa8` | 1 |

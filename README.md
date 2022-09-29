@@ -17,7 +17,9 @@ The account/rank pairs which the Technical Committee should introduce.
 | `joepetrowski` | `GcDZZCVPwkPqoWxx8vfLb4Yfpz9yQ1f4XEyqngSH8ygsL9p` | 2 |
 | `KiChjang` | `GA3yPifemubFga7sTSFtLY2KFFiSRp6Bb8w31FS4xqgAvCz` | 2 |
 | `shaunxw` | `HxhDbS3grLurk1dhDgPiuDaRowHY1xHCU8Vu8on3fdg85tx` | 2 |
+| `koute` | `HTk3eccL7WBkiyxz1gBcqQRghsJigoDMD7mnQaz1UAbMpQV` | 2 |
 | `gilescope` | `16UphEbThwtrgDBp4aSxRHNePCRV2NJEKo5q55MzXhTscruC` | 1 |
 | `ggwpez` | `Ea6jhP5gF4r7NqhkEoAXJDgSgYpNQNaTYU6gPsrEGfctaKR` | 1 |
 | `EclesioMeloJunior` | `CbCmCwFkfFkQo7bQtVczYg7sJ3oue6Ez2Z4RMGR8gi8deRk` | 1 |
 | `4meta5` | `FJq9JpA9P7EXbmfsN9YiewJaDbQyL6vQyksGtJvzfbn6zf8` | 1 |
+| `qdm12` | `5GxLYcBSsZTdMjbPEQGhJU4LkXFWTzeUnV1sysa467hSkEa8` | 1 |

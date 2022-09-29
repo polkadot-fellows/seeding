@@ -25,4 +25,5 @@ The account/rank pairs which the Technical Committee should introduce.
 | `olanod` | `EvoLanodoqDsgHb98Ymbu41uXXKfCPDKxeM6dXHyJ2JoVus` | 1 |
 | `doordashcon` | `EaBqDJJNsZmYdQ4xn1vomPJVNh7fjA6UztZeEjn7ZzdeT7V` | 1 |
 | `qdm12` | `5GxLYcBSsZTdMjbPEQGhJU4LkXFWTzeUnV1sysa467hSkEa8` | 1 |
+| `tbaut` | `GAToWXwmQoMmxHKCmFJ615WbhdGRcRfyDZi7pg7PBRpQuNY` | 1 |
 

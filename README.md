@@ -20,7 +20,6 @@ The account/rank pairs which the Technical Committee should introduce.
 | `KiChjang` | `GA3yPifemubFga7sTSFtLY2KFFiSRp6Bb8w31FS4xqgAvCz` | 2 |
 | `shaunxw` | `HxhDbS3grLurk1dhDgPiuDaRowHY1xHCU8Vu8on3fdg85tx` | 2 |
 | `koute` | `HTk3eccL7WBkiyxz1gBcqQRghsJigoDMD7mnQaz1UAbMpQV` | 2 |
-| `kishansagathiya` | `5EHD2BAPe3UvVycjG8qUXYGtU2CrfQkh9zPao8xU7x2iPPtH` | 2 |
 | `AurevoirXavier` | `GfbnnEgRU94n9ed4RFZ6Z9dBAWs5obykigJSwXKU9hsT2uU` | 1 |
 | `ggwpez` | `Ea6jhP5gF4r7NqhkEoAXJDgSgYpNQNaTYU6gPsrEGfctaKR` | 1 |
 | `EclesioMeloJunior` | `CbCmCwFkfFkQo7bQtVczYg7sJ3oue6Ez2Z4RMGR8gi8deRk` | 1 |
@@ -28,4 +27,5 @@ The account/rank pairs which the Technical Committee should introduce.
 | `olanod` | `EvoLanodoqDsgHb98Ymbu41uXXKfCPDKxeM6dXHyJ2JoVus` | 1 |
 | `doordashcon` | `EaBqDJJNsZmYdQ4xn1vomPJVNh7fjA6UztZeEjn7ZzdeT7V` | 1 |
 | `qdm12` | `5GxLYcBSsZTdMjbPEQGhJU4LkXFWTzeUnV1sysa467hSkEa8` | 1 |
+| `kishansagathiya` | `5EHD2BAPe3UvVycjG8qUXYGtU2CrfQkh9zPao8xU7x2iPPtH` | 1 |
 

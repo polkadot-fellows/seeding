@@ -31,3 +31,4 @@ The account/rank pairs which the Technical Committee should introduce.
 | `insipx` | `GRy2P3kBEzSHCbmDJfquku1cyUyhZaAqojRcNE4A4U3MnLd` | 1 |
 | `arrudagates` | `HYwiBo7Mcv7uUDg4MUoKm2fxzv4dMLAtmmNfzHV8qcQJpAE` | 1 |
 | `tbaut` | `GAToWXwmQoMmxHKCmFJ615WbhdGRcRfyDZi7pg7PBRpQuNY` | 1 |
+| `kishansagathiya` | `5EHD2BAPe3UvVycjG8qUXYGtU2CrfQkh9zPao8xU7x2iPPtH` | 1 |

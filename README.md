@@ -15,7 +15,6 @@ The account/rank pairs which the Technical Committee should introduce.
 | `kianenigma` | `HL8bEp8YicBdrUmJocCAWVLKUaR2dd1y6jnD934pbre3un1` | 4 |
 | `xlc` | `HyBryanRsB1GGKa9ZfqvRc3XpTDipYyRvxNNyZYfWFcenhd` | 4 |
 | `ordian` | `GAWwkmjbLhM5pnAVbdZEkwd3QjHE7kaxJSCi3Ec91Q3QSDW` | 3 |
-| `seunlanlege` | `12EXcpt1CwnSAF9d7YWrh91bQw6R5wmCpJUXPWi7vn2CZFpJ` | 3 |
 | `drahnr` | `H25aCspunTUqAt4D1gC776vKZ8FX3MvQJ3Jde6qDXPQaFxk` | 3 |
 | `NikVolf` | `GtLQoW4ZqcjExMPq6qB22bYc6NaX1yMzRuGWpSRiHqnzRb9` | 3 |
 | `athei` | `G5MVrgFmBaYei8N6t6DnDrb8JE53wKDkazLv5f46wVpi14y` | 3 |
@@ -23,6 +22,7 @@ The account/rank pairs which the Technical Committee should introduce.
 | `KiChjang` | `GA3yPifemubFga7sTSFtLY2KFFiSRp6Bb8w31FS4xqgAvCz` | 2 |
 | `shaunxw` | `HxhDbS3grLurk1dhDgPiuDaRowHY1xHCU8Vu8on3fdg85tx` | 2 |
 | `koute` | `HTk3eccL7WBkiyxz1gBcqQRghsJigoDMD7mnQaz1UAbMpQV` | 2 |
+| `seunlanlege` | `12EXcpt1CwnSAF9d7YWrh91bQw6R5wmCpJUXPWi7vn2CZFpJ` | 2 |
 | `AurevoirXavier` | `GfbnnEgRU94n9ed4RFZ6Z9dBAWs5obykigJSwXKU9hsT2uU` | 1 |
 | `gilescope` | `Hj44XnjZui7SQ3A5eBMoJFa4H4nVhiyWnL2i2xw5f1YqzRX` | 1 |
 | `ggwpez` | `Ea6jhP5gF4r7NqhkEoAXJDgSgYpNQNaTYU6gPsrEGfctaKR` | 1 |

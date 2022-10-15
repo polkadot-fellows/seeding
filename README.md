@@ -18,6 +18,7 @@ The account/rank pairs which the Technical Committee should introduce.
 | `drahnr` | `H25aCspunTUqAt4D1gC776vKZ8FX3MvQJ3Jde6qDXPQaFxk` | 3 |
 | `NikVolf` | `GtLQoW4ZqcjExMPq6qB22bYc6NaX1yMzRuGWpSRiHqnzRb9` | 3 |
 | `athei` | `G5MVrgFmBaYei8N6t6DnDrb8JE53wKDkazLv5f46wVpi14y` | 3 |
+| `ascjones` | `Ddb9puChKMHq4gM6o47E551wAmaNeu6kHngX1jzNNqAw782` | 2 |
 | `joepetrowski` | `GcDZZCVPwkPqoWxx8vfLb4Yfpz9yQ1f4XEyqngSH8ygsL9p` | 2 |
 | `KiChjang` | `GA3yPifemubFga7sTSFtLY2KFFiSRp6Bb8w31FS4xqgAvCz` | 2 |
 | `shaunxw` | `HxhDbS3grLurk1dhDgPiuDaRowHY1xHCU8Vu8on3fdg85tx` | 2 |
@@ -35,4 +36,5 @@ The account/rank pairs which the Technical Committee should introduce.
 | `insipx` | `GRy2P3kBEzSHCbmDJfquku1cyUyhZaAqojRcNE4A4U3MnLd` | 1 |
 | `arrudagates` | `HYwiBo7Mcv7uUDg4MUoKm2fxzv4dMLAtmmNfzHV8qcQJpAE` | 1 |
 | `tbaut` | `GAToWXwmQoMmxHKCmFJ615WbhdGRcRfyDZi7pg7PBRpQuNY` | 1 |
+| `Szegoo` | `126X27SbhrV19mBFawys3ovkyBS87SGfYwtwa8J2FjHrtbmA` | 1 |
 | `kishansagathiya` | `5EHD2BAPe3UvVycjG8qUXYGtU2CrfQkh9zPao8xU7x2iPPtH` | 1 |

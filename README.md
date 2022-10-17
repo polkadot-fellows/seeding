@@ -25,6 +25,7 @@ The account/rank pairs which the Technical Committee should introduce.
 | `koute` | `HTk3eccL7WBkiyxz1gBcqQRghsJigoDMD7mnQaz1UAbMpQV` | 2 |
 | `seunlanlege` | `12EXcpt1CwnSAF9d7YWrh91bQw6R5wmCpJUXPWi7vn2CZFpJ` | 2 |
 | `AurevoirXavier` | `GfbnnEgRU94n9ed4RFZ6Z9dBAWs5obykigJSwXKU9hsT2uU` | 1 |
+| `akru` | `15akrup6APpRegG1TtWkYVuWHYc37tJ8XPN61vCuHQUi65Mx` | 1 |
 | `gilescope` | `Hj44XnjZui7SQ3A5eBMoJFa4H4nVhiyWnL2i2xw5f1YqzRX` | 1 |
 | `ggwpez` | `Ea6jhP5gF4r7NqhkEoAXJDgSgYpNQNaTYU6gPsrEGfctaKR` | 1 |
 | `EclesioMeloJunior` | `CbCmCwFkfFkQo7bQtVczYg7sJ3oue6Ez2Z4RMGR8gi8deRk` | 1 |

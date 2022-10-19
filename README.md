@@ -41,4 +41,5 @@ The account/rank pairs which the Technical Committee should introduce.
 | `kishansagathiya` | `5EHD2BAPe3UvVycjG8qUXYGtU2CrfQkh9zPao8xU7x2iPPtH` | 1 |
 | `dharjeezy` | `H5BuqCmucJhUUuvjAzPazeVwVCtUSXVQdc5Dnx2q5zD7rVn` | 1 |
 | `wizdave97` | `GxX7S1pTDdeaGUjpEPPF2we6tgHDhbatFG25pVmVFtGHLH6` | 1 |
+| `edwardmack` | `1ZYq7qWxvqC1rE4PKnTWwoVJYLtn99p9JM9cUn2WqbWr3Jt` | 1 |
 

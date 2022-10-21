@@ -42,4 +42,5 @@ The account/rank pairs which the Technical Committee should introduce.
 | `dharjeezy` | `H5BuqCmucJhUUuvjAzPazeVwVCtUSXVQdc5Dnx2q5zD7rVn` | 1 |
 | `wizdave97` | `GxX7S1pTDdeaGUjpEPPF2we6tgHDhbatFG25pVmVFtGHLH6` | 1 |
 | `edwardmack` | `D8sM6vKjWaeKy2zCPYWGkLLbWdUtWQrXBTQqr4dSYnVQo21` | 1 |
+| `tifecool` | `EtSAhcjK8Wq4ar22WTnmwa2GQQpnN4WnRERT3Qfwo54s699` | 1 |
 

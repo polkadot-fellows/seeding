@@ -24,6 +24,7 @@ The account/rank pairs which the Technical Committee should introduce.
 | `shaunxw` | `HxhDbS3grLurk1dhDgPiuDaRowHY1xHCU8Vu8on3fdg85tx` | 2 |
 | `koute` | `HTk3eccL7WBkiyxz1gBcqQRghsJigoDMD7mnQaz1UAbMpQV` | 2 |
 | `seunlanlege` | `12EXcpt1CwnSAF9d7YWrh91bQw6R5wmCpJUXPWi7vn2CZFpJ` | 2 |
+| `edwardmack` | `D8sM6vKjWaeKy2zCPYWGkLLbWdUtWQrXBTQqr4dSYnVQo21` | 2 |
 | `AurevoirXavier` | `GfbnnEgRU94n9ed4RFZ6Z9dBAWs5obykigJSwXKU9hsT2uU` | 1 |
 | `akru` | `15akrup6APpRegG1TtWkYVuWHYc37tJ8XPN61vCuHQUi65Mx` | 1 |
 | `gilescope` | `Hj44XnjZui7SQ3A5eBMoJFa4H4nVhiyWnL2i2xw5f1YqzRX` | 1 |
@@ -41,5 +42,3 @@ The account/rank pairs which the Technical Committee should introduce.
 | `kishansagathiya` | `5EHD2BAPe3UvVycjG8qUXYGtU2CrfQkh9zPao8xU7x2iPPtH` | 1 |
 | `dharjeezy` | `H5BuqCmucJhUUuvjAzPazeVwVCtUSXVQdc5Dnx2q5zD7rVn` | 1 |
 | `wizdave97` | `GxX7S1pTDdeaGUjpEPPF2we6tgHDhbatFG25pVmVFtGHLH6` | 1 |
-| `edwardmack` | `D8sM6vKjWaeKy2zCPYWGkLLbWdUtWQrXBTQqr4dSYnVQo21` | 2 |
-

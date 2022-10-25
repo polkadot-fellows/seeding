@@ -18,6 +18,7 @@ The account/rank pairs which the Technical Committee should introduce.
 | [drahnr](https://github.com/drahnr) | `H25aCspunTUqAt4D1gC776vKZ8FX3MvQJ3Jde6qDXPQaFxk` | 3 |
 | [NikVolf](https://github.com/NikVolf) | `GtLQoW4ZqcjExMPq6qB22bYc6NaX1yMzRuGWpSRiHqnzRb9` | 3 |
 | [athei](https://github.com/athei) | `G5MVrgFmBaYei8N6t6DnDrb8JE53wKDkazLv5f46wVpi14y` | 3 |
+| [sorpaas](https://github.com/sorpaas) | `DSbhnaGBytDGRfZTmdcArzCL6T3HQ8gcZxWpF5gLBP6y1Qe` | 3 |
 | [cheme](https://github.com/cheme) | `CzEPpMr7XNS6dK7nQFnQbfnJQYLq7nvULK5kL9U8Zb6CTJm` | 3 |
 | [ascjones](https://github.com/ascjones) | `Ddb9puChKMHq4gM6o47E551wAmaNeu6kHngX1jzNNqAw782` | 2 |
 | [joepetrowski](https://github.com/joepetrowski) | `GcDZZCVPwkPqoWxx8vfLb4Yfpz9yQ1f4XEyqngSH8ygsL9p` | 2 |

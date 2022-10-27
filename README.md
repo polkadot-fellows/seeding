@@ -45,3 +45,4 @@ The account/rank pairs which the Technical Committee should introduce.
 | [dharjeezy](https://github.com/dharjeezy) | `H5BuqCmucJhUUuvjAzPazeVwVCtUSXVQdc5Dnx2q5zD7rVn` | 1 |
 | [wizdave97](https://github.com/wizdave97) | `GxX7S1pTDdeaGUjpEPPF2we6tgHDhbatFG25pVmVFtGHLH6` | 1 |
 | [timwu20](https://github.com/timwu20) | `CzuUtvKhZNZBjyAXeYviaRXwrLhVrsupJ9PrWmdq7BJTjGR` | 1 |
+| [zjb0807](https://github.com/zjb0807) | `FCunn2Rx8JqfT5g6noUKKazph4jLDba5rUee7o3ZmJ362Ju` | 1 |

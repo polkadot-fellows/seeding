@@ -20,6 +20,7 @@ The account/rank pairs which the Technical Committee should introduce.
 | [athei](https://github.com/athei) | `G5MVrgFmBaYei8N6t6DnDrb8JE53wKDkazLv5f46wVpi14y` | 3 |
 | [noot](https://github.com/noot) | `HfFpz4QUxfbocHudf8UU7cMgHqkHpf855Me5X846PZAsAYE` | 3 | 
 | [sorpaas](https://github.com/sorpaas) | `DSbhnaGBytDGRfZTmdcArzCL6T3HQ8gcZxWpF5gLBP6y1Qe` | 3 |
+| [cheme](https://github.com/cheme) | `CzEPpMr7XNS6dK7nQFnQbfnJQYLq7nvULK5kL9U8Zb6CTJm` | 3 |
 | [ascjones](https://github.com/ascjones) | `Ddb9puChKMHq4gM6o47E551wAmaNeu6kHngX1jzNNqAw782` | 2 |
 | [joepetrowski](https://github.com/joepetrowski) | `GcDZZCVPwkPqoWxx8vfLb4Yfpz9yQ1f4XEyqngSH8ygsL9p` | 2 |
 | [KiChjang](https://github.com/KiChjang) | `GA3yPifemubFga7sTSFtLY2KFFiSRp6Bb8w31FS4xqgAvCz` | 2 |

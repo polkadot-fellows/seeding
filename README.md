@@ -47,3 +47,4 @@ The account/rank pairs which the Technical Committee should introduce.
 | [wizdave97](https://github.com/wizdave97) | `GxX7S1pTDdeaGUjpEPPF2we6tgHDhbatFG25pVmVFtGHLH6` | 1 |
 | [timwu20](https://github.com/timwu20) | `CzuUtvKhZNZBjyAXeYviaRXwrLhVrsupJ9PrWmdq7BJTjGR` | 1 |
 | [zjb0807](https://github.com/zjb0807) | `FCunn2Rx8JqfT5g6noUKKazph4jLDba5rUee7o3ZmJ362Ju` | 1 |
+| [skunert](https://github.com/skunert) | `H9nUFL5DasuMeAiTC77QyZFCVX39crW6h7knXNrDF4PrSJf` | 1 |

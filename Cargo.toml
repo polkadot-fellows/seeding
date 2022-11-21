@@ -1,0 +1,10 @@
+[package]
+name = "seeding"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+parity-scale-codec = "3.2.1"
+subxt = "0.25.0"
+tokio = { version = "1.8", features = ["rt-multi-thread", "macros"] }
+hex = "0.4.3"

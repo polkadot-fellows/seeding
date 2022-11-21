@@ -29,7 +29,7 @@ The account/rank pairs which the Technical Committee should introduce.
 | [seunlanlege](https://github.com/seunlanlege) | `12EXcpt1CwnSAF9d7YWrh91bQw6R5wmCpJUXPWi7vn2CZFpJ` | 2 |
 | [edwardmack](https://github.com/edwardmack) | `D8sM6vKjWaeKy2zCPYWGkLLbWdUtWQrXBTQqr4dSYnVQo21` | 2 |
 | [AurevoirXavier](https://github.com/AurevoirXavier) | `GfbnnEgRU94n9ed4RFZ6Z9dBAWs5obykigJSwXKU9hsT2uU` | 1 |
-| [akru](https://github.com/akru) | `15akrup6APpRegG1TtWkYVuWHYc37tJ8XPN61vCuHQUi65Mx` | 1 |
+| [akru](https://github.com/akru) | `HA5NtttvyZsxo4wGxGoJJSMaWtdEFZAuGUMFHVWD7fgenPv` | 1 |
 | [gilescope](https://github.com/gilescope) | `Hj44XnjZui7SQ3A5eBMoJFa4H4nVhiyWnL2i2xw5f1YqzRX` | 1 |
 | [ggwpez](https://github.com/ggwpez) | `Ea6jhP5gF4r7NqhkEoAXJDgSgYpNQNaTYU6gPsrEGfctaKR` | 1 |
 | [EclesioMeloJunior](https://github.com/EclesioMeloJunior) | `CbCmCwFkfFkQo7bQtVczYg7sJ3oue6Ez2Z4RMGR8gi8deRk` | 1 |

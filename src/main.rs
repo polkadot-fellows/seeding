@@ -71,7 +71,7 @@ async fn main() -> Result<(), &'static str> {
 
     let bytes = batch.encode();
 
-    println!("{}", hex::encode(bytes));
+    println!("0x{}", hex::encode(bytes));
 
     Ok(())
 }

@@ -26,7 +26,7 @@ The account/rank pairs which the Technical Committee should introduce.
 | [KiChjang](https://github.com/KiChjang) | `GA3yPifemubFga7sTSFtLY2KFFiSRp6Bb8w31FS4xqgAvCz` | 2 |
 | [shaunxw](https://github.com/shaunxw) | `HxhDbS3grLurk1dhDgPiuDaRowHY1xHCU8Vu8on3fdg85tx` | 2 |
 | [koute](https://github.com/koute) | `HTk3eccL7WBkiyxz1gBcqQRghsJigoDMD7mnQaz1UAbMpQV` | 2 |
-| [seunlanlege](https://github.com/seunlanlege) | `12EXcpt1CwnSAF9d7YWrh91bQw6R5wmCpJUXPWi7vn2CZFpJ` | 2 |
+| [seunlanlege](https://github.com/seunlanlege) | `J93MdZPvP1RnQj5va1TaqZNm45t4zvvVEhFJ4MChyerR95b` | 2 |
 | [edwardmack](https://github.com/edwardmack) | `D8sM6vKjWaeKy2zCPYWGkLLbWdUtWQrXBTQqr4dSYnVQo21` | 2 |
 | [AurevoirXavier](https://github.com/AurevoirXavier) | `GfbnnEgRU94n9ed4RFZ6Z9dBAWs5obykigJSwXKU9hsT2uU` | 1 |
 | [akru](https://github.com/akru) | `15akrup6APpRegG1TtWkYVuWHYc37tJ8XPN61vCuHQUi65Mx` | 1 |

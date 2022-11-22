@@ -63,7 +63,7 @@ fn load_members() -> Result<Vec<Member>> {
             let name = captures[1].to_owned();
             let account_id = &captures[2];
             let account_id = AccountId32::from_str(account_id)
-                .map_err(|e|anyhow::anyhow!("Error parsing account id {}: {}", account_id, e))?;
+                .map_err(|e| anyhow::anyhow!("Error parsing account id {}: {}", account_id, e))?;
             let rank = u8::from_str(&captures[3])?;
             members.push(Member {
                 name,

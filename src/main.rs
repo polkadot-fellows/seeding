@@ -6,7 +6,8 @@ pub mod kusama {
 
 use anyhow::Result;
 use kusama::runtime_types::{
-    kusama_runtime::RuntimeCall, pallet_ranked_collective::pallet::Call as CollectiveCall,
+    kusama_runtime::RuntimeCall, pallet_collective::pallet::Call as TechnicalCommitteeCall,
+    pallet_ranked_collective::pallet::Call as CollectiveCall,
     pallet_utility::pallet::Call as UtilityCall,
 };
 use parity_scale_codec::Encode as _;
@@ -42,8 +43,15 @@ fn main() -> Result<()> {
         }
     }
 
-    let batch = RuntimeCall::Utility(UtilityCall::batch { calls });
-    let bytes = batch.encode();
+    let proposal = RuntimeCall::Utility(UtilityCall::batch { calls });
+    let length_bound = proposal.encoded_size() as u32;
+    let call = RuntimeCall::TechnicalCommittee(TechnicalCommitteeCall::propose {
+        proposal: Box::new(proposal),
+        threshold: 2,
+        length_bound,
+    });
+
+    let bytes = call.encode();
 
     println!("0x{}", hex::encode(bytes));
 

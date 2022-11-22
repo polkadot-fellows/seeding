@@ -18,7 +18,7 @@ async fn main() -> Result<(), &'static str> {
     let mut calls = Vec::new();
 
     // ranks copied from https://github.com/polkadot-fellows/seeding/blob/main/README.md
-    // at https://github.com/polkadot-fellows/seeding/commit/c0e3e73035ce892927541d239aa6ad828df9984d
+    // at https://github.com/polkadot-fellows/seeding/commit/1c653798cb43661c6236386493a42054bd44cd21
     add_member(&mut calls, "J8ww78Qx3LVLW54bva3t4SzXcWKMdUWHEZR3V2VNKbmQgE8", 6)?;  // rphmeier
     add_member(&mut calls, "FFFF3gBSSDFSvK2HBq4qgLH75DHqXWPHeCnR1BSksAMacBs", 6)?;  // bkchr
     add_member(&mut calls, "G7YVCdxZb8JLpAm9WMnJdNuojNT84AzU62zmvx5P1FMNtg2", 5)?;  // andresilva
@@ -43,7 +43,7 @@ async fn main() -> Result<(), &'static str> {
     add_member(&mut calls, "12EXcpt1CwnSAF9d7YWrh91bQw6R5wmCpJUXPWi7vn2CZFpJ", 2)?;  // seunlanlege
     add_member(&mut calls, "D8sM6vKjWaeKy2zCPYWGkLLbWdUtWQrXBTQqr4dSYnVQo21", 2)?;  // edwardmack
     add_member(&mut calls, "GfbnnEgRU94n9ed4RFZ6Z9dBAWs5obykigJSwXKU9hsT2uU", 1)?;  // AurevoirXavier
-    add_member(&mut calls, "15akrup6APpRegG1TtWkYVuWHYc37tJ8XPN61vCuHQUi65Mx", 1)?;  // akru
+    add_member(&mut calls, "HA5NtttvyZsxo4wGxGoJJSMaWtdEFZAuGUMFHVWD7fgenPv", 1)?;  // akru
     add_member(&mut calls, "Hj44XnjZui7SQ3A5eBMoJFa4H4nVhiyWnL2i2xw5f1YqzRX", 1)?;  // gilescope
     add_member(&mut calls, "Ea6jhP5gF4r7NqhkEoAXJDgSgYpNQNaTYU6gPsrEGfctaKR", 1)?;  // ggwpez
     add_member(&mut calls, "CbCmCwFkfFkQo7bQtVczYg7sJ3oue6Ez2Z4RMGR8gi8deRk", 1)?;  // EclesioMeloJunior

@@ -19,7 +19,6 @@ async fn main() -> Result<(), &'static str> {
 
     // ranks copied from https://github.com/polkadot-fellows/seeding/blob/main/README.md
     // at https://github.com/polkadot-fellows/seeding/commit/c0e3e73035ce892927541d239aa6ad828df9984d
-    add_member(&mut calls, "FcxNWVy5RESDsErjwyZmPCW6Z8Y3fbfLzmou34YZTrbcraL", 7)?;  // gavofyork
     add_member(&mut calls, "J8ww78Qx3LVLW54bva3t4SzXcWKMdUWHEZR3V2VNKbmQgE8", 6)?;  // rphmeier
     add_member(&mut calls, "FFFF3gBSSDFSvK2HBq4qgLH75DHqXWPHeCnR1BSksAMacBs", 6)?;  // bkchr
     add_member(&mut calls, "G7YVCdxZb8JLpAm9WMnJdNuojNT84AzU62zmvx5P1FMNtg2", 5)?;  // andresilva

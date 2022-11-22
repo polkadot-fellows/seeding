@@ -17,6 +17,8 @@ use subxt::ext::sp_runtime::{AccountId32, MultiAddress};
 #[tokio::main]
 async fn main() -> Result<()> {
     let members = load_members()?;
+    assert_eq!(45, members.len());
+
     let mut calls = Vec::new();
 
     for member in members.iter() {

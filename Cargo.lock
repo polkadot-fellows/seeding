@@ -2021,8 +2021,10 @@ dependencies = [
 name = "seeding"
 version = "0.1.0"
 dependencies = [
+ "anyhow",
  "hex",
  "parity-scale-codec",
+ "regex",
  "subxt",
  "tokio",
 ]

@@ -28,6 +28,7 @@ The account/rank pairs which the Technical Committee should introduce.
 | [koute](https://github.com/koute) | `HTk3eccL7WBkiyxz1gBcqQRghsJigoDMD7mnQaz1UAbMpQV` | 2 |
 | [seunlanlege](https://github.com/seunlanlege) | `EcNWrSPSDcVBRymwr26kk4JVFg92PdoU5Xwp87W2FgFSt9c` | 2 |
 | [edwardmack](https://github.com/edwardmack) | `D8sM6vKjWaeKy2zCPYWGkLLbWdUtWQrXBTQqr4dSYnVQo21` | 2 |
+| [jonas](https://github.com/jonasW3F) | `5Eeio5MVfvF5XCw2C6aJcpUR3TpVmdh6T53x4tQM4V8EPtt5` | 2 |
 | [AurevoirXavier](https://github.com/AurevoirXavier) | `GfbnnEgRU94n9ed4RFZ6Z9dBAWs5obykigJSwXKU9hsT2uU` | 1 |
 | [akru](https://github.com/akru) | `HA5NtttvyZsxo4wGxGoJJSMaWtdEFZAuGUMFHVWD7fgenPv` | 1 |
 | [gilescope](https://github.com/gilescope) | `Hj44XnjZui7SQ3A5eBMoJFa4H4nVhiyWnL2i2xw5f1YqzRX` | 1 |

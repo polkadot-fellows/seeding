@@ -29,12 +29,15 @@ async fn main() -> Result<()> {
                 who: MultiAddress::Id(member.account_id.clone()),
             },
         ));
-        for _ in 0..member.rank {
-            calls.push(RuntimeCall::FellowshipCollective(
-                CollectiveCall::promote_member {
-                    who: MultiAddress::Id(member.account_id.clone()),
-                },
-            ))
+        for rank in 0..member.rank {
+            // referendum required to promote to rank VII and higher
+            if rank < 6 {
+                calls.push(RuntimeCall::FellowshipCollective(
+                    CollectiveCall::promote_member {
+                        who: MultiAddress::Id(member.account_id.clone()),
+                    },
+                ))
+            }
         }
     }
 

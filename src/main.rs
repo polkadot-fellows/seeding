@@ -79,7 +79,7 @@ fn add_member(calls: &mut Vec<CollectiveCall>, who: &str, dan: u8) -> Result<(),
     let who = AccountId32::from_str(who)?;
 
     calls.push(CollectiveCall::add_member { who: MultiAddress::Id(who.clone()) });
-    for _ in 1..dan {
+    for _ in 0..dan {
         calls.push(CollectiveCall::promote_member { who: MultiAddress::Id(who.clone()) })
     }
 

@@ -13,6 +13,7 @@ use kusama::runtime_types::{
 use parity_scale_codec::Encode as _;
 use std::io::BufRead;
 use std::{fs, io, str::FromStr as _};
+use subxt::ext::sp_core;
 use subxt::ext::sp_runtime::{AccountId32, MultiAddress};
 
 fn main() -> Result<()> {
@@ -44,6 +45,7 @@ fn main() -> Result<()> {
     }
 
     let proposal = RuntimeCall::Utility(UtilityCall::batch { calls });
+    let proposal_hash = sp_core::blake2_256(&proposal.encode());
     let length_bound = proposal.encoded_size() as u32;
     let call = RuntimeCall::TechnicalCommittee(TechnicalCommitteeCall::propose {
         proposal: Box::new(proposal),
@@ -53,7 +55,8 @@ fn main() -> Result<()> {
 
     let bytes = call.encode();
 
-    println!("0x{}", hex::encode(bytes));
+    println!("Call data: 0x{}", hex::encode(bytes));
+    println!("Proposal hash: 0x{}", hex::encode(proposal_hash));
 
     Ok(())
 }

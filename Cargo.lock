@@ -2025,6 +2025,7 @@ dependencies = [
  "hex",
  "parity-scale-codec",
  "regex",
+ "sp-core",
  "subxt",
 ]
 

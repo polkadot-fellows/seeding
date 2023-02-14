@@ -49,3 +49,4 @@ The account/rank pairs which the Technical Committee should introduce.
 | [zjb0807](https://github.com/zjb0807) | `FCunn2Rx8JqfT5g6noUKKazph4jLDba5rUee7o3ZmJ362Ju` | 1 |
 | [davxy](https://github.com/davxy) | `HyPMjWRHCpJS7x2SZ2R6M2XG5ZiCiZag4U4r7gBHRsE5mTc` | 1 |
 | [skunert](https://github.com/skunert) | `H9nUFL5DasuMeAiTC77QyZFCVX39crW6h7knXNrDF4PrSJf` | 1 |
+| `samelamin` | `FXkcePu7sUd8TbfSasW4MTs5grMptqupFFGpkBKT7veoePm` | 1 |
